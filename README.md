@@ -20,28 +20,12 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santoshnaya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santoshnaya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshnaya&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=santoshnaya&theme=tokyonight&hide_border=false"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=santoshnaya&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1"/>
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santoshnaya&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 ---
@@ -103,24 +87,7 @@
 
 ---
 
-## 📊 Detailed Metrics
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/santoshnaya?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FKolkata"/>
-</div>
-
----
-
 ## 🌟 Featured Projects
-
-### 🚀 [Auto-Commit Generator](https://github.com/santoshnaya/github-commit)
-**Smart GitHub contribution pattern generator**
-- 🎯 Creates realistic commit patterns
-- 📊 Customizable contribution density
-- 🔧 Multiple pattern modes (dense, consistent, streak)
-- 📈 Boosts GitHub activity visualization
-
-**Tech:** JavaScript, Node.js, Git Automation, GitHub API
 
 ---
 
@@ -190,22 +157,8 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/santoshnaya/santoshnaya/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</div>
-
----
-
 <div align="center">
   
-### 🚀 *"Code is poetry, and every commit tells a story!"* 
-
-![Profile Views](https://komarev.com/ghpvc/?username=santoshnaya&color=blueviolet&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/santoshnaya?style=for-the-badge&color=blue)
-![Years Badge](https://badges.pufler.dev/years/santoshnaya?style=for-the-badge&color=blue)
-
 **Thanks for visiting! ⭐ Star some repositories if you found them interesting!**
 
 </div>
