@@ -138,17 +138,6 @@
 
 ---
 
-## 💰 Support My Work
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/santoshnaya)
-[![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/santoshnaya)
-
-</div>
-
----
-
 ## ✍️ Random Dev Quote
 
 <div align="center">
