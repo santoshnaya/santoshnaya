@@ -87,21 +87,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
----
-
-### 🤖 [AI-Powered Web App](https://github.com/santoshnaya/ai-app)
-**Next-generation intelligent web application**
-- 🧠 Machine learning integration
-- 🎨 Beautiful React UI/UX
-- ⚡ Real-time AI responses
-- 📱 Responsive design
-
-**Tech:** React, Next.js, TypeScript, OpenAI API, Tailwind CSS
-
----
-
 ## 📈 Performance Insights
 
 <div align="center">
