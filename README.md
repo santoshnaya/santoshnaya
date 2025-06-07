@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santoshnaya&theme=tokyonight&hide_border=false"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=santoshnaya&theme=tokyonight&hide_border=false"/> -->
 </div>
 
 ---
