@@ -12,7 +12,7 @@
 🌱 **Learning:** Advanced React patterns, NextJS, TypeScript, and Machine Learning  
 👯 **Looking to collaborate on:** Open source projects and innovative tech solutions  
 💬 **Ask me about:** JavaScript, React, Node.js, Python, AI/ML  
-📫 **Reach me:** santoshnayak3@gmail.com  
+📫 **Reach me:** nsantosh897@gmail.com  
 ⚡ **Fun fact:** I love automating everything and creating beautiful user experiences!  
 
 ---
