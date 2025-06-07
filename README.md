@@ -115,14 +115,6 @@
 
 ---
 
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&scan=true&theme=default" />
-</div>
-
----
-
 ## ✍️ Random Dev Quote
 
 <div align="center">
